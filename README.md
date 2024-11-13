@@ -73,7 +73,7 @@ The architecture includes the following components:
 
 ## Project Demonstration
 
-[Project Video Link](IoT_Assignment/IoT_Project_Video (1).mp4)
+[[Project Video Link](IoT_Assignment/IoT_Project_Video (1).mp4)](https://heriotwatt-my.sharepoint.com/:v:/g/personal/a3005_hw_ac_uk/EevloBdEgLBEmifwlChjSXgBnB83JxO-fMywP2IzaevLZQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=D7wYJI)
 
 ## References
 
